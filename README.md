@@ -94,10 +94,10 @@ python3 scraper.py
 ## Estrutura de Arquivos
 
 ```
-├── scraper_axur.py                 # Script completo com scraping, envio e submissão
-├── scraper_notebook_axur.ipynb    # Versão notebook para uso no Google Colab/Jupyter notebook
+├── scraper_axur.py                   # Script completo com scraping, envio e submissão
+├── scraper_notebook_axur.ipynb       # Versão notebook para uso no Google Colab/Jupyter notebook
 ├── imagem_scrape.jpeg                # Imagem salva localmente a partir do scraping
-├── README.md           # Este documento com o diário de bordo
+├── README.md                         # Este documento com o diário de bordo
 ```
 
 ---
